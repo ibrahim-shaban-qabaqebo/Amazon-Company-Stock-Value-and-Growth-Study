@@ -1,4 +1,4 @@
-# Amazon-Company-Stock-Value-and-Growth-Study
+# Amazon-Company-Stock-Value-and-Growth Study
 
 📈 Amazon Stock Value & Growth Analysis
 
